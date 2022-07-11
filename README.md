@@ -3,7 +3,7 @@
 A Colorado Board of Elections employee has given us the task to complete the election audit of a recent local congressional election. We are going to calculate the number of votes each candidate recieved, the percentage of the winning candidates, winner of the most amount of votes etc. using Python programming and Visual Studio Code to generate the output results.
 
 ## Election Audit Results
-The output result was able to generate in a txt file saved in the "analysis" folder and below is the result.
+The output result was able to generate in a txt file saved in the "analysis" folder and below are the results.
 - There were a total of 369,711 votes in this election.
 - Candidates participated in this election were:
   - Charles Casper Stockham
