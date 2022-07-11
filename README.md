@@ -4,7 +4,6 @@ A Colorado Board of Elections employee has given us the task to complete the ele
 
 ## Election Audit Results
 The output result was able to generate in a txt file saved in the "analysis" folder and below is the result.
-![This is an image](https://github.com/sherryli1116/Python_Election_Analysis/blob/main/analysis/analysis%20screenshot.png)
 - There were a total of 369,711 votes in this election.
 - Candidates participated in this election were:
   - Charles Casper Stockham
