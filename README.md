@@ -22,4 +22,6 @@ The output result was able to generate in a txt file saved in the "analysis" fol
 - The winner of this election was:
   - Diana DeGette, who recieved 73.8% of the total votes count and 272,892 votes.
 ## Election Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+By changing the output names of this scipt, we can use it in any kind of election. For example, we can use it in team member elections, mall manager elections, national elections, school elections etc.
+- In order to use it in nation wide elections, we can change the county names to state names and the output will generate state names instead. 
+- We can also change county votes to customer votes, if we want to find out which product customers favor the most in a boutique shop. The result will generate the most popular product which recieves the most amount of votes from customers.
